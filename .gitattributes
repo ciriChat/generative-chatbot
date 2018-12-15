@@ -1,1 +1,2 @@
 nmt_model/** filter=lfs diff=lfs merge=lfs -text
+nmt_data/* filter=lfs diff=lfs merge=lfs -text
